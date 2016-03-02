@@ -1,0 +1,13 @@
+E:\iThesis\Code\ScaleImage\ScaleImage\bin\Debug\ScaleImage.exe.config
+E:\iThesis\Code\ScaleImage\ScaleImage\bin\Debug\ScaleImage.exe
+E:\iThesis\Code\ScaleImage\ScaleImage\bin\Debug\ScaleImage.pdb
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\ScaleImage.csprojResolveAssemblyReference.cache
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\MainWindow.baml
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\MainWindow.g.cs
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\App.g.cs
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\ScaleImage_MarkupCompile.cache
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\ScaleImage.g.resources
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\ScaleImage.Properties.Resources.resources
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\ScaleImage.csproj.GenerateResource.Cache
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\ScaleImage.exe
+E:\iThesis\Code\ScaleImage\ScaleImage\obj\Debug\ScaleImage.pdb
